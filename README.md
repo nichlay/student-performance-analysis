@@ -26,11 +26,13 @@ It contains information about students’ scores in math, reading, and writing, 
 - There are observable patterns in student performance that can be further explored
 
 ## 📁 Project Structure
+```
 student-performance-analysis/
 │
 ├── StudentsPerformance.csv
 ├── analysis.ipynb
 └── README.md
+```
 
 
 ## 🚀 Conclusion
